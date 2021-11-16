@@ -3,16 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/search_icon.xml" value="0.1423611111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/slider_background.xml" value="0.1423611111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/smsverify.xml" value="0.1423611111111111" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/splash.xml" value="0.1423611111111111" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_about_developer.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_add_address.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_category.xml" value="0.153125" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_delivery.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_main2.xml" value="0.11041666666666666" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_my_addresses.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_order_details.xml" value="0.11" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/activity_register.xml" value="0.153125" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/product_details_only_layout.xml" value="0.1125" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/profile_data_layout.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/rewards_item_layout.xml" value="0.1" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/layout/wishlist_item_layout.xml" value="0.1125" />
-        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.15135135135135136" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/menu/main_activity2.xml" value="0.11041666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/mipmap-anydpi-v26/app_icon_round.xml" value="0.1423611111111111" />
       </map>
     </option>
   </component>

@@ -412,9 +412,6 @@ public class MainActivity2 extends AppCompatActivity implements NavigationView.O
                             Intent registerIntent = new Intent(MainActivity2.this, RegisterActivity.class);
                             startActivity(registerIntent);
                             finish();
-                        }else if (id==R.id.nav_about_developer){
-                            Intent developerIntent = new Intent(MainActivity2.this,AboutDeveloperActivity.class);
-                            startActivity(developerIntent);
                         }
 
                         drawer.removeDrawerListener(this);
