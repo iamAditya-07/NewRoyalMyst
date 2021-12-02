@@ -178,7 +178,7 @@ public class MainActivity2 extends AppCompatActivity implements NavigationView.O
         super.onStart();
         currentUser = FirebaseAuth.getInstance().getCurrentUser();
         if (currentUser == null) {
-            navigationView.getMenu().getItem(navigationView.getMenu().size() - 2).setEnabled(false);
+            navigationView.getMenu().getItem(navigationView.getMenu().size() - 1).setEnabled(false);
         } else {
 
 
@@ -218,7 +218,7 @@ public class MainActivity2 extends AppCompatActivity implements NavigationView.O
                     Glide.with(MainActivity2.this).load(DBqueries.profile).apply(new RequestOptions().placeholder(R.drawable.ic_baseline_person_24)).into(profileView);
                 }
             }
-            navigationView.getMenu().getItem(navigationView.getMenu().size() - 2).setEnabled(true);
+            navigationView.getMenu().getItem(navigationView.getMenu().size() - 1).setEnabled(true);
 
         }
         if (resetMainActivity2){
@@ -406,7 +406,8 @@ public class MainActivity2 extends AppCompatActivity implements NavigationView.O
                             gotoFragment("My Wishlist", new MyWishlistFragment(), WISHLIST_FRAGMENT);
                         } else if (id == R.id.nav_my_account) {
                             gotoFragment("My Account", new MyAccountFragment(), ACCOUNT_FRAGMENT);
-                        } else if (id == R.id.nav_sign_out) {
+                        }
+                        else if (id == R.id.nav_sign_out) {
                             FirebaseAuth.getInstance().signOut();
                             DBqueries.clearData();
                             Intent registerIntent = new Intent(MainActivity2.this, RegisterActivity.class);
@@ -414,12 +415,13 @@ public class MainActivity2 extends AppCompatActivity implements NavigationView.O
                             finish();
                         }
 
+
                         drawer.removeDrawerListener(this);
                     }
                 });
 
-
                 return true;
+
             } else {
                 signInDialog.show();
                 return false;

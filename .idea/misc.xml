@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/drawable/account_icon.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/drawable/ic_baseline_feedback_24.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/drawable/wishlist_icon.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/activity_main.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/activity_main2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/app_bar_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/badge_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/cart_item_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/fragment_customized_feedback.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/fragment_sign_in_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/fragment_sign_up_fragment.xml" value="0.17" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/payment_method.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/product_details_only_layout.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/layout/ratings_layout.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/menu/activity_main_drawer.xml" value="0.15" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/menu/main_activity2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/menu/search_and_cart_icon.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewRoyalMyst/app/src/main/res/menu/search_icon.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/search_icon.xml" value="0.1423611111111111" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/slider_background.xml" value="0.1423611111111111" />
         <entry key="..\:/Users/DELL/AndroidStudioProjects/ShoppingApp/app/src/main/res/drawable/smsverify.xml" value="0.1423611111111111" />
